@@ -1,0 +1,10 @@
+1$Toi thay hoa vang tren co xanh$Thuy
+2$Con chim xanh biec bay ve$Vanh
+3$Mat biec$Ga Tay
+4$Co gai den tu hom qua$Thuy
+5$Cam on nguoi lon$Dung
+6$Ngoi khoc tren cay$Thuy
+7$Nu sinh$Lien
+8$Trai dat$Thuy
+9$Mat troi$Thuy
+10$Mat trang$Vanh
